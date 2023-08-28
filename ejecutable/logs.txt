@@ -1,0 +1,33 @@
+[12-08 22:22:05] El programa ha iniciado.
+[12-08 22:22:27] Archivo de configuracion generado.
+[12-08 22:22:27] El programa ha finalizado.
+[12-08 22:23:20] El programa ha iniciado.
+[12-08 22:23:20] Rutas de archivos guardadas en C:\Users\dybsm\Escritorio\Script\ejecutable\paths.txt
+[12-08 22:23:20] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Analysis-00.toc ha comenzado a subirse.
+[12-08 22:23:21] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Analysis-00.toc ha finalizado satisfactoriamente.
+[12-08 22:23:21] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/base_library.zip ha comenzado a subirse.
+[12-08 22:23:21] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/base_library.zip ha finalizado satisfactoriamente.
+[12-08 22:23:22] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/EXE-00.toc ha comenzado a subirse.
+[12-08 22:23:22] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/EXE-00.toc ha finalizado satisfactoriamente.
+[12-08 22:23:23] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/PKG-00.toc ha comenzado a subirse.
+[12-08 22:23:23] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/PKG-00.toc ha finalizado satisfactoriamente.
+[12-08 22:23:24] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/PYZ-00.pyz ha comenzado a subirse.
+[12-08 22:23:24] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/PYZ-00.pyz ha finalizado satisfactoriamente.
+[12-08 22:23:24] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/PYZ-00.toc ha comenzado a subirse.
+[12-08 22:23:25] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/PYZ-00.toc ha finalizado satisfactoriamente.
+[12-08 22:23:25] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Tree-00.toc ha comenzado a subirse.
+[12-08 22:23:25] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Tree-00.toc ha finalizado satisfactoriamente.
+[12-08 22:23:26] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Tree-01.toc ha comenzado a subirse.
+[12-08 22:23:26] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Tree-01.toc ha finalizado satisfactoriamente.
+[12-08 22:23:27] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Tree-02.toc ha comenzado a subirse.
+[12-08 22:23:27] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Tree-02.toc ha finalizado satisfactoriamente.
+[12-08 22:23:28] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Upload Folder in OBS.exe.manifest ha comenzado a subirse.
+[12-08 22:23:28] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Upload Folder in OBS.exe.manifest ha finalizado satisfactoriamente.
+[12-08 22:23:29] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Upload Folder in OBS.pkg ha comenzado a subirse.
+[12-08 22:23:31] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/Upload Folder in OBS.pkg ha finalizado satisfactoriamente.
+[12-08 22:23:31] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/warn-Upload Folder in OBS.txt ha comenzado a subirse.
+[12-08 22:23:32] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/warn-Upload Folder in OBS.txt ha finalizado satisfactoriamente.
+[12-08 22:23:33] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/xref-Upload Folder in OBS.html ha comenzado a subirse.
+[12-08 22:23:33] C:/Users/dybsm/Escritorio/Script/ejecutable/build/Upload Folder in OBS/xref-Upload Folder in OBS.html ha finalizado satisfactoriamente.
+[12-08 22:23:34] No quedan archivos pendientes en 'paths.txt'.
+[12-08 22:23:34] El programa ha finalizado.

@@ -1,0 +1,2 @@
+[15-08 11:33:51] El programa ha iniciado.
+[15-08 11:33:53] El programa ha finalizado.
