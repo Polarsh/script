@@ -7,6 +7,8 @@ import threading
 from tkinter import Tk, ttk, StringVar, Label, Entry, Button, filedialog
 from obs import ObsClient
 
+# cambio
+
 root = None
 accessKey = None
 secretKey = None
